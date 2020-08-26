@@ -1,0 +1,5 @@
+.app-toolbar {
+    display: flex;
+    align-items: center;
+    height: 4em;
+}
